@@ -27,3 +27,12 @@ $(window).on("load resize", function() {
 });
 
 // End Dropdown On Hover
+
+
+// Awal Loader
+
+      $(document).ready(function(){
+      $(".preloader").fadeOut();
+    });
+
+    // End Loader
